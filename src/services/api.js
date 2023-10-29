@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+
 import axios from 'axios';
 
 export default function fetchImagesWithQuery(searchQuery, page) {
